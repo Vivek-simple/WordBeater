@@ -13,7 +13,7 @@ let dropDown = document.querySelector("#dropDown")
 
 let sc = 0
 let time = 5
-let arr = ["java", "mern", "Android", "C", "Adam", "Avenger", "Hulk", "iron man", "wonda", "doctor Strenge"]
+let arr = ["java", "mern", "Android", "C", "Adam", "Avenger", "Hulk", "iron man", "wonda", "doctor Strenge","flutter"]
 
 //event handler
 
